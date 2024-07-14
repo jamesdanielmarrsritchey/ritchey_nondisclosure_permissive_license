@@ -1,0 +1,1 @@
+# ritchey_nondisclosure_permissive_license
