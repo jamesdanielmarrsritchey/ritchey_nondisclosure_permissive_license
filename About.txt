@@ -1,0 +1,13 @@
+Name: Ritchey Non-Disclosure Permissive License
+Version: 3
+Long Identifier: Ritchey Non-Disclosure Permissive License v3
+Short Identifier: RNPLv3
+Description: A permissive license.
+History:
+ - Version 1 completed.
+ - Version 2 completed.
+ - Version 3 completed July 14, 2024.
+Author:James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the terms of the Ritchey Non-Disclosure Permissive License v3 license.
+Notes:
+- 
