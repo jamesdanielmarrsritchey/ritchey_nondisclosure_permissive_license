@@ -1,14 +1,15 @@
 Name: Ritchey Non-Disclosure Permissive License
-Version: 4
-Long Identifier: Ritchey Non-Disclosure Permissive License v4
-Short Identifier: RNPLv4
+Version: 5
+Long Identifier: Ritchey Non-Disclosure Permissive License v5
+Short Identifier: RNPLv5
 Description: A permissive license.
 History:
  - Version 1 completed.
  - Version 2 completed.
  - Version 3 completed July 14, 2024.
  - Version 4 completed July 15, 2024.
+ - Version 5 completed December 22, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the Ritchey Non-Disclosure Permissive License v4 license.
+Licensing: This project is hereby licensed under the Ritchey Non-Disclosure Permissive License v5 license.
 Notes:
 - 
